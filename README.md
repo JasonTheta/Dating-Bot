@@ -25,5 +25,6 @@ To make 1000 decisions use
 
 Please notice, that there are so many steps you have to take manually, because this api is UNSTABLE. Most common error is that the bot cannot find the button to click. From my experience the xpath may change from time to time and you will have to replace the path in the code.
 
-Creative Commons
-You may change, remix and share this content for non commercial purpose without reciting theta-computing.net.
+
+Creative Commons license cc-by-4.0
+https://creativecommons.org/licenses/by/4.0/
