@@ -2,7 +2,7 @@
 
 Requieres python interpreter and selenium package.
 
-This script allows you to automate the swiping process on the dating platform okcupid.com. Anyway you have to manually create an account and verify using your phone number. After you type in your email address and password in swipingbot.py start the script using 
+This script allows you to automate the swiping process on the platform **okcupid.com**. Anyway you have to manually create an account and verify using your phone number. After you type in your email address and password in swipingbot.py start the script using 
 
 `~$ python3 -i swipingbot.py`
 
